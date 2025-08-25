@@ -224,7 +224,7 @@ elif page == "🎓 Formação e Experiência":
     st.markdown("""
     ### 💼 Estágio em Desenvolvimento de Sistemas
     **Empresa:** Secretaria do Verde e Meio Ambiente  
-    **Período:** [Data de Início] - 08/2025 (Atual)  
+    **Período:** 09/2024 - 08/2025  
 
     **Principais Responsabilidades:**
     - Desenvolvimento de sistemas internos e automação de processos
