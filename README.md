@@ -16,7 +16,6 @@ A aplicação é totalmente interativa, com um design moderno e responsivo.
 O dashboard é dividido em quatro seções principais, navegáveis através de uma barra lateral:
 
 ### 🏠 Home
-- **Apresentação**: Foto e informações de contato.
 - **Sobre Mim**: Breve biografia e resumo profissional.
 - **Objetivo Profissional**: Detalhamento das áreas de interesse e aspirações de carreira.
 
