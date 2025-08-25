@@ -11,12 +11,6 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit que serve a u
 
 A aplicação é totalmente interativa, com um design moderno e responsivo.
 
-## 🚀 Visualização
-
-> **Dica:** É altamente recomendado adicionar um screenshot ou um GIF do seu dashboard aqui para que os visitantes possam ver o resultado final!
-
-![Exemplo do Dashboard](https://via.placeholder.com/800x450/1a1a2e/00e5ff?text=Insira+um+screenshot+do+seu+dashboard+aqui!)
-
 ## ✨ Funcionalidades
 
 O dashboard é dividido em quatro seções principais, navegáveis através de uma barra lateral:
